@@ -1,0 +1,111 @@
+{
+  "@@locale": "es",
+  "appTitle": "PulseNow",
+  "retry": "Reintentar",
+  "refresh": "Actualizar",
+  "noMarketDataAvailable": "No hay datos de mercado disponibles",
+  "hours24": "24h",
+  "noInternetConnection": "Sin Conexión a Internet",
+  "noInternetMessage": "No hay conexión a internet. Por favor verifica tu red e intenta de nuevo.",
+  "serverError": "Error del Servidor",
+  "serverErrorMessage": "Error del servidor. Por favor intenta más tarde.",
+  "connectionTimeout": "Tiempo de Conexión Agotado",
+  "timeoutMessage": "Tiempo de espera agotado. Por favor verifica tu conexión e intenta de nuevo.",
+  "error": "Error",
+  "unexpectedError": "Ocurrió un error inesperado. Por favor intenta de nuevo.",
+  "sortBy": "Ordenar por:",
+  "sortBySymbol": "Símbolo",
+  "sortByPrice": "Precio",
+  "sortByChange": "Cambio",
+  "ascending": "Ascendente",
+  "descending": "Descendente",
+  "searchMarketData": "Buscar por símbolo (ej., BTC/USD)",
+  "noResultsFound": "No se encontraron resultados",
+  "showingOf": "Mostrando {count} de {total}",
+  "@showingOf": {
+    "placeholders": {
+      "count": {
+        "type": "int"
+      },
+      "total": {
+        "type": "int"
+      }
+    }
+  },
+  "currentPrice": "Precio Actual",
+  "description": "Descripción",
+  "about": "Acerca de",
+  "marketStatistics": "Estadísticas del Mercado",
+  "volume24h": "Volumen (24h)",
+  "marketCap": "Capitalización de Mercado",
+  "high24h": "Máximo 24h",
+  "low24h": "Mínimo 24h",
+  "lastUpdated": "Última actualización",
+  "analytics": "Análisis",
+  "errorLoadingAnalytics": "Error al cargar análisis",
+  "marketOverview": "Resumen del Mercado",
+  "totalMarketCap": "Capitalización Total del Mercado",
+  "totalVolume24h": "Volumen 24h",
+  "activeMarkets": "Mercados Activos",
+  "marketSentiment": "Sentimiento del Mercado",
+  "overallSentiment": "General",
+  "bullish": "Alcista",
+  "neutral": "Neutral",
+  "bearish": "Bajista",
+  "fearGreedIndex": "Índice de Miedo y Codicia",
+  "socialSentiment": "Sentimiento Social",
+  "technicalAnalysis": "Análisis Técnico",
+  "onChainMetrics": "Métricas On-Chain",
+  "noAnalyticsDataAvailable": "No hay datos de análisis disponibles",
+  "loadAnalytics": "Cargar Análisis",
+  "portfolio": "Cartera",
+  "errorLoadingPortfolio": "Error al cargar cartera",
+  "portfolioSummary": "Resumen de Cartera",
+  "totalValue": "Valor Total",
+  "totalPnL": "Ganancia/Pérdida Total",
+  "totalPnLPercent": "Ganancia/Pérdida Total %",
+  "holdings": "Tenencias",
+  "quantity": "Cantidad",
+  "noHoldings": "Sin tenencias",
+  "portfolioHoldingsAppearHere": "Tus tenencias de cartera aparecerán aquí",
+  "noPortfolioDataAvailable": "No hay datos de cartera disponibles",
+  "loadPortfolio": "Cargar Cartera",
+  "marketData": "Datos de Mercado",
+  "switchToLightMode": "Cambiar a modo claro",
+  "switchToDarkMode": "Cambiar a modo oscuro",
+  "english": "Inglés",
+  "spanish": "Español",
+  "offlineModeShowingCachedData": "Modo sin conexión - Mostrando datos en caché",
+  "updated": "Actualizado",
+  "justNow": "Ahora mismo",
+  "minutesAgo": "hace {count}m",
+  "@minutesAgo": {
+    "placeholders": {
+      "count": {
+        "type": "int"
+      }
+    }
+  },
+  "hoursAgo": "hace {count}h",
+  "@hoursAgo": {
+    "placeholders": {
+      "count": {
+        "type": "int"
+      }
+    }
+  },
+  "daysAgo": "hace {count}d",
+  "@daysAgo": {
+    "placeholders": {
+      "count": {
+        "type": "int"
+      }
+    }
+  },
+  "pageNotFound": "Página no encontrada",
+  "unknownError": "Error desconocido",
+  "goHome": "Ir al Inicio",
+  "marketDataNotFound": "Datos de mercado no encontrados",
+  "unknown": "Desconocido",
+  "live": "En Vivo"
+}

@@ -1,0 +1,334 @@
+{
+  "@@locale": "en",
+  "appTitle": "PulseNow",
+  "@appTitle": {
+    "description": "The application title"
+  },
+  "retry": "Retry",
+  "@retry": {
+    "description": "Retry button text"
+  },
+  "refresh": "Refresh",
+  "@refresh": {
+    "description": "Refresh button text"
+  },
+  "noMarketDataAvailable": "No market data available",
+  "@noMarketDataAvailable": {
+    "description": "Message shown when no market data is available"
+  },
+  "hours24": "24h",
+  "@hours24": {
+    "description": "24 hours label"
+  },
+  "noInternetConnection": "No Internet Connection",
+  "@noInternetConnection": {
+    "description": "Error title for no internet connection"
+  },
+  "noInternetMessage": "No internet connection. Please check your network and try again.",
+  "@noInternetMessage": {
+    "description": "Error message for no internet connection"
+  },
+  "serverError": "Server Error",
+  "@serverError": {
+    "description": "Error title for server error"
+  },
+  "serverErrorMessage": "Server error. Please try again later.",
+  "@serverErrorMessage": {
+    "description": "Error message for server error"
+  },
+  "connectionTimeout": "Connection Timeout",
+  "@connectionTimeout": {
+    "description": "Error title for connection timeout"
+  },
+  "timeoutMessage": "Request timeout. Please check your connection and try again.",
+  "@timeoutMessage": {
+    "description": "Error message for connection timeout"
+  },
+  "error": "Error",
+  "@error": {
+    "description": "Generic error title"
+  },
+  "unexpectedError": "An unexpected error occurred. Please try again.",
+  "@unexpectedError": {
+    "description": "Generic error message"
+  },
+  "sortBy": "Sort by:",
+  "@sortBy": {
+    "description": "Sort by label"
+  },
+  "sortBySymbol": "Symbol",
+  "@sortBySymbol": {
+    "description": "Sort by symbol option"
+  },
+  "sortByPrice": "Price",
+  "@sortByPrice": {
+    "description": "Sort by price option"
+  },
+  "sortByChange": "Change",
+  "@sortByChange": {
+    "description": "Sort by change option"
+  },
+  "ascending": "Ascending",
+  "@ascending": {
+    "description": "Ascending sort direction"
+  },
+  "descending": "Descending",
+  "@descending": {
+    "description": "Descending sort direction"
+  },
+  "searchMarketData": "Search by symbol (e.g., BTC/USD)",
+  "@searchMarketData": {
+    "description": "Search field hint text"
+  },
+  "noResultsFound": "No results found",
+  "@noResultsFound": {
+    "description": "Message shown when no search results are found"
+  },
+  "showingOf": "Showing {count} of {total}",
+  "@showingOf": {
+    "description": "Showing filtered results count",
+    "placeholders": {
+      "count": {
+        "type": "int"
+      },
+      "total": {
+        "type": "int"
+      }
+    }
+  },
+  "currentPrice": "Current Price",
+  "@currentPrice": {
+    "description": "Current price label"
+  },
+  "description": "Description",
+  "@description": {
+    "description": "Description label"
+  },
+  "about": "About",
+  "@about": {
+    "description": "About section title"
+  },
+  "marketStatistics": "Market Statistics",
+  "@marketStatistics": {
+    "description": "Market statistics section title"
+  },
+  "volume24h": "Volume (24h)",
+  "@volume24h": {
+    "description": "24 hour volume label"
+  },
+  "marketCap": "Market Cap",
+  "@marketCap": {
+    "description": "Market cap label"
+  },
+  "high24h": "24h High",
+  "@high24h": {
+    "description": "24 hour high label"
+  },
+  "low24h": "24h Low",
+  "@low24h": {
+    "description": "24 hour low label"
+  },
+  "lastUpdated": "Last updated",
+  "@lastUpdated": {
+    "description": "Last updated label"
+  },
+  "analytics": "Analytics",
+  "@analytics": {
+    "description": "Analytics screen title"
+  },
+  "errorLoadingAnalytics": "Error loading analytics",
+  "@errorLoadingAnalytics": {
+    "description": "Error message when loading analytics fails"
+  },
+  "marketOverview": "Market Overview",
+  "@marketOverview": {
+    "description": "Market overview section title"
+  },
+  "totalMarketCap": "Total Market Cap",
+  "@totalMarketCap": {
+    "description": "Total market cap label"
+  },
+  "totalVolume24h": "24h Volume",
+  "@totalVolume24h": {
+    "description": "Total 24h volume label"
+  },
+  "activeMarkets": "Active Markets",
+  "@activeMarkets": {
+    "description": "Active markets label"
+  },
+  "marketSentiment": "Market Sentiment",
+  "@marketSentiment": {
+    "description": "Market sentiment section title"
+  },
+  "overallSentiment": "Overall",
+  "@overallSentiment": {
+    "description": "Overall sentiment label"
+  },
+  "bullish": "Bullish",
+  "@bullish": {
+    "description": "Bullish sentiment label"
+  },
+  "neutral": "Neutral",
+  "@neutral": {
+    "description": "Neutral sentiment label"
+  },
+  "bearish": "Bearish",
+  "@bearish": {
+    "description": "Bearish sentiment label"
+  },
+  "fearGreedIndex": "Fear & Greed Index",
+  "@fearGreedIndex": {
+    "description": "Fear and greed index label"
+  },
+  "socialSentiment": "Social Sentiment",
+  "@socialSentiment": {
+    "description": "Social sentiment label"
+  },
+  "technicalAnalysis": "Technical Analysis",
+  "@technicalAnalysis": {
+    "description": "Technical analysis label"
+  },
+  "onChainMetrics": "On-Chain Metrics",
+  "@onChainMetrics": {
+    "description": "On-chain metrics label"
+  },
+  "noAnalyticsDataAvailable": "No analytics data available",
+  "@noAnalyticsDataAvailable": {
+    "description": "Message shown when no analytics data is available"
+  },
+  "loadAnalytics": "Load Analytics",
+  "@loadAnalytics": {
+    "description": "Load analytics button text"
+  },
+  "portfolio": "Portfolio",
+  "@portfolio": {
+    "description": "Portfolio screen title"
+  },
+  "errorLoadingPortfolio": "Error loading portfolio",
+  "@errorLoadingPortfolio": {
+    "description": "Error message when loading portfolio fails"
+  },
+  "portfolioSummary": "Portfolio Summary",
+  "@portfolioSummary": {
+    "description": "Portfolio summary section title"
+  },
+  "totalValue": "Total Value",
+  "@totalValue": {
+    "description": "Total value label"
+  },
+  "totalPnL": "Total P&L",
+  "@totalPnL": {
+    "description": "Total profit and loss label"
+  },
+  "totalPnLPercent": "Total P&L %",
+  "@totalPnLPercent": {
+    "description": "Total profit and loss percentage label"
+  },
+  "holdings": "Holdings",
+  "@holdings": {
+    "description": "Holdings section title"
+  },
+  "quantity": "Quantity",
+  "@quantity": {
+    "description": "Quantity label"
+  },
+  "noHoldings": "No holdings",
+  "@noHoldings": {
+    "description": "Message shown when there are no holdings"
+  },
+  "portfolioHoldingsAppearHere": "Your portfolio holdings will appear here",
+  "@portfolioHoldingsAppearHere": {
+    "description": "Message shown when holdings list is empty"
+  },
+  "noPortfolioDataAvailable": "No portfolio data available",
+  "@noPortfolioDataAvailable": {
+    "description": "Message shown when no portfolio data is available"
+  },
+  "loadPortfolio": "Load Portfolio",
+  "@loadPortfolio": {
+    "description": "Load portfolio button text"
+  },
+  "marketData": "Market Data",
+  "@marketData": {
+    "description": "Market data screen title"
+  },
+  "switchToLightMode": "Switch to light mode",
+  "@switchToLightMode": {
+    "description": "Tooltip for switching to light mode"
+  },
+  "switchToDarkMode": "Switch to dark mode",
+  "@switchToDarkMode": {
+    "description": "Tooltip for switching to dark mode"
+  },
+  "english": "English",
+  "@english": {
+    "description": "English language name"
+  },
+  "spanish": "Español",
+  "@spanish": {
+    "description": "Spanish language name"
+  },
+  "offlineModeShowingCachedData": "Offline mode - Showing cached data",
+  "@offlineModeShowingCachedData": {
+    "description": "Offline mode indicator message"
+  },
+  "updated": "Updated",
+  "@updated": {
+    "description": "Updated label"
+  },
+  "justNow": "Just now",
+  "@justNow": {
+    "description": "Time indicator for just now"
+  },
+  "minutesAgo": "{count}m ago",
+  "@minutesAgo": {
+    "description": "Time indicator for minutes ago",
+    "placeholders": {
+      "count": {
+        "type": "int"
+      }
+    }
+  },
+  "hoursAgo": "{count}h ago",
+  "@hoursAgo": {
+    "description": "Time indicator for hours ago",
+    "placeholders": {
+      "count": {
+        "type": "int"
+      }
+    }
+  },
+  "daysAgo": "{count}d ago",
+  "@daysAgo": {
+    "description": "Time indicator for days ago",
+    "placeholders": {
+      "count": {
+        "type": "int"
+      }
+    }
+  },
+  "pageNotFound": "Page not found",
+  "@pageNotFound": {
+    "description": "Page not found error message"
+  },
+  "unknownError": "Unknown error",
+  "@unknownError": {
+    "description": "Unknown error message"
+  },
+  "goHome": "Go Home",
+  "@goHome": {
+    "description": "Go home button text"
+  },
+  "marketDataNotFound": "Market data not found",
+  "@marketDataNotFound": {
+    "description": "Market data not found message"
+  },
+  "unknown": "Unknown",
+  "@unknown": {
+    "description": "Unknown label"
+  },
+  "live": "Live",
+  "@live": {
+    "description": "Live indicator text"
+  }
+}
